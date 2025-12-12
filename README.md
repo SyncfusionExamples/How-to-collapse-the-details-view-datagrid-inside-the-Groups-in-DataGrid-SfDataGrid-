@@ -30,10 +30,4 @@ void CollapseAllNestedGrids(Group group)
 }
 ```
 
-#### Before Grouping:
-
-![DetailsViewDataGrid is in collapsed state before grouping](DetailsViewDataGridBeforeGrouping.png)
-
-#### After Grouping:
-
-![DetailsViewDataGrid is in collapsed state after grouping](DetailsViewDataGridAfterGrouping.png)
+![DetailsViewDataGrid is in collapsed state after grouping](DetailsViewDataGridInCollapseOnGrouping.gif)
