@@ -22,6 +22,7 @@ void CollapseAllNestedGrids(Group group)
                 item.IsExpanded = false;
         }
     }
+
     if (group.Groups != null)
     {
         foreach (var item in group.Groups)
